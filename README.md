@@ -1,63 +1,15 @@
-# 👋 Hi, I'm Gaurav Singh (@GauravSRC)
+# 💫 About Me:
+# 👋 Hi, I'm Gaurav Singh (@GauravSRC)<br><br>AI/ML researcher and developer at IIT (BHU) Varanasi, passionate about applying <br>deep learning to real-world scientific and engineering problems.<br><br>##  About Me<br>-  Integrated Dual Degree (B.Tech + M.Tech) student at IIT (BHU) Varanasi <br>-  I love doing AI research on scientific topics - materials science, bioinformatics, environmental systems<br>-  I bridge research and engineering - from training models to optimizing them for deployment<br><br>##  Currently Working On<br>- Real-time inference optimization <br>- Agentic AI systems and LLM pipelines<br>- Perception stack for autonomous vehicles <br><br>##  Currently Learning<br>- Agentic AI & multi-agent frameworks<br>- Advanced Generative AI<br>- Performance profiling and low-latency ML deployment<br><br>##  Love to Collaborate On<br>- AI for science (materials discovery, bioinformatics, environmental monitoring)<br>- Computer vision and generative model research<br>- Open-source ML tooling<br>- Autonomous systems and robotics<br><br>
 
-## 🧪➡️🤖 About Myself
-I'm a passionate AI/ML researcher and developer with a unique background in Chemistry from IIT (BHU) Varanasi, bridging the worlds of molecular science and artificial intelligence. I am deeply interested in leveraging generative AI—such as GANs and autoencoders—to push the frontiers in material science and environmental science. I'm also an active open-source contributor and competitive programmer, constantly exploring algorithmic problem-solving and building tools that benefit the developer community.
 
-## 🔧 Technical Arsenal
-| **Domain**                          | **Technologies & Expertise**                                                                                                                                       |
-|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming Languages**           | Python, C++, C                                                                                                                                                     |
-| **Machine Learning & Deep Learning**| PyTorch, Scikit-Learn, Transfer Learning, Model Optimization, Pruning, Quantization                                                                                |
-| **Computer Vision**                 | Object Detection, Segmentation, YOLO, MobileNet, Vision Transformers (SWIN, DONUT), Attention Mechanisms                                                           |
-| **Natural Language Processing**     | BERT, LLMs, LangGraph, RAG, LangChain, Prompt Engineering                                                                                                          |
-| **Generative AI**                   | GANs (cGAN, dual CGAN), Autoencoders (3D Convolutional), Variants—exploring applications in materials discovery and environmental remediation                      |
-| **Development Tools**               | Git/GitHub, Docker/Devcontainers, PyTorch, OpenCV, Hugging Face, Roboflow, YAML/JSON parsing                                                                       |
-| **Competitive Programming & DSA**   | Problem-solving, Algorithmic Optimization, Data Structures & Algorithms                                                                                            |
-| **Open Source Contribution**        | OSS contribution workflow, Collaboration, Code Review, Documentation                                                                                                |
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-singh-rc/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravsingh70800@gmail.com) 
 
-## 🌱 Current Learning Journey
-- **Graph Neural Networks (GNNs):** For molecular structure analysis and drug discovery applications.
-- **Vision Transformers (ViTs):** For high energy physics data analysis and advanced computer vision tasks.
-- **Advanced Network Pruning & Optimization:** Creating efficient models for edge devices and embedded platforms.
-- **Real-Time Image Dehazing with Attention Mechanisms:** Improving computer vision under challenging environmental conditions.
-- **LangGraph and RAG Systems:** Building domain-specific knowledge agents for scientific applications.
-- **Hydrological Modeling with Deep Learning:** For water quality prediction and resource management.
-- **Computational Chemistry Tools Integrated with AI:** Accelerating materials discovery.
-- **Multi-modal Learning Frameworks:** Combining chemical structure data with visual and textual information.
-- **Generative AI in Material Science & Environmental Science:** Experimenting with GANs and autoencoders to simulate novel materials and predict environmental impacts, offering insights into sustainable innovations.
-- **Advanced Data Structures & Algorithms:** Strengthening problem-solving skills for competitive programming.
-- **Open Source Best Practices:** Contributing to community-driven projects and collaborative development.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=GauravSRC&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=GauravSRC&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=GauravSRC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 💼 Professional Engagements
-- **Project Manager (Autonomy)** at **Team AVERERA**, leading perception stack development for autonomous vehicles
-- **Student Wing Member (Project Intern)** at **Smart Laboratory on Clean Rivers (SLCR)**, developing AI-driven river monitoring systems
-- **Junior Member** in **ROBOREG (Robotics Research Group)**
-- **Open Source Contributor:** Actively contributing to community projects and collaborative development initiatives
-
-## 🚀 What I Bring to the Table
-- **AI/ML Development:** Building end-to-end pipelines for computer vision, NLP, and generative AI applications
-- **Model Optimization:** Expertise in pruning, quantization, and efficient deployment for edge devices
-- **Autonomous Systems:** Developing perception and navigation modules for robotics and autonomous vehicles
-- **Environmental AI:** Creating intelligent solutions for water quality monitoring and environmental sustainability
-- **Problem Solving:** Strong foundation in data structures, algorithms, and competitive programming
-- **Open Source Mindset:** Committed to collaborative development, code quality, and community contribution
-- **Research & Innovation:** Bridging chemistry and AI for materials discovery and scientific advancement
-
-## 🤝 Collaboration Interests
-- Research projects at the intersection of chemistry and AI
-- Applications of computer vision and generative models in various domains
-- Dataset development for specialized applications
-- Environmental monitoring, water quality analysis, and sustainable AI solutions
-- Pioneering work in applying generative AI to material science and environmental science
-- Autonomous navigation systems and intelligent transportation solutions
-- Open source projects in machine learning, robotics, and AI tools
-- Algorithmic challenges and competitive programming competitions
-
-## 📫 Connect With Me
-- **Email:** gauravsr.chhetri.chy23@itbhu.ac.in
-- **LinkedIn:** [Gaurav Singh](https://www.linkedin.com/in/gaurav-singh-rc/)
-- **GitHub:** [GauravSRC](https://github.com/GauravSRC)
-
----
-
-💡 *Always open to interesting conversations about AI, chemistry, competitive programming, and open source! Feel free to reach out.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
