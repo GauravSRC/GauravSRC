@@ -1,5 +1,36 @@
-# 💫 About Me:
-# 👋 Hi, I'm Gaurav Singh (@GauravSRC)<br><br>AI/ML researcher and developer at IIT (BHU) Varanasi, passionate about applying <br>deep learning to real-world scientific and engineering problems.<br><br>##  About Me<br>-  Integrated Dual Degree (B.Tech + M.Tech) student at IIT (BHU) Varanasi <br>-  I love doing AI research on scientific topics - materials science, bioinformatics, environmental systems<br>-  I bridge research and engineering - from training models to optimizing them for deployment<br><br>##  Currently Working On<br>- Real-time inference optimization <br>- Agentic AI systems and LLM pipelines<br>- Perception stack for autonomous vehicles <br><br>##  Currently Learning<br>- Agentic AI & multi-agent frameworks<br>- Advanced Generative AI<br>- Performance profiling and low-latency ML deployment<br><br>##  Love to Collaborate On<br>- AI for science (materials discovery, bioinformatics, environmental monitoring)<br>- Computer vision and generative model research<br>- Open-source ML tooling<br>- Autonomous systems and robotics<br><br>
+## 👋 Hi, I'm Gaurav Singh (@GauravSRC)
+
+> AI/ML researcher and developer at IIT (BHU) Varanasi, passionate about applying
+> deep learning to real-world scientific and engineering problems.
+
+---
+
+### 🎓 About Me
+- 📚 Integrated Dual Degree (B.Tech + M.Tech) student at IIT (BHU) Varanasi
+- 🔬 I love doing AI research on scientific topics - materials science, bioinformatics, environmental systems
+- 🔧 I bridge research and engineering - from training models to optimizing them for deployment
+
+---
+
+### 🔭 Currently Working On
+- ⚡ Real-time inference optimization
+- 🤖 Agentic AI systems and LLM pipelines
+- 🚗 Perception stack for autonomous vehicles
+
+---
+
+### 🌱 Currently Learning
+- 🧩 Agentic AI & multi-agent frameworks
+- 🎨 Advanced Generative AI
+- 📊 Performance profiling and low-latency ML deployment
+
+---
+
+### 🤝 Love to Collaborate On
+- 🧪 AI for science (materials discovery, bioinformatics, environmental monitoring)
+- 👁️ Computer vision and generative model research
+- 🛠️ Open-source ML tooling
+- 🤖 Autonomous systems and robotics
 
 
 ## 🌐 Socials:
